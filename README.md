@@ -1,4 +1,4 @@
-# Face detection & Recognition System
+# Face Detection & Recognition System
 
 ## Models:
 
