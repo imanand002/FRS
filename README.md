@@ -5,7 +5,7 @@
 1. For face detection: Mediapipe (BlazeFace - Short Range)
 2. For face recognition: FaceNet
 
-##Dataset: Own images
+## Dataset: Own images
 -> Structure: dataset/person_name/image-1.jpeg
 
 ## Data Pipeline:
