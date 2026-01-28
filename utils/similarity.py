@@ -1,3 +1,4 @@
+# Measures how close two FaceNet embeddings are and if someone is 'Unknown'
 import numpy as np
 
 def cosine_similarity(a, b):
