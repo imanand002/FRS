@@ -1,7 +1,6 @@
 import cv2
 import numpy as np
 import time
-
 from detector.mediapipe_detector import FaceDetector
 from recognition.facenet import FaceNetRecognizer
 from utils.similarity import cosine_similarity
