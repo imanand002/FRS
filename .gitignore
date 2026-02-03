@@ -1,3 +1,8 @@
 .venv
 models.venv/
 models/
+dataset
+recognition/__pycache__
+.DS_Store
+utils/__pycache__
+detector/__pycache__/mediapipe_detector.cpython-312.pyc
