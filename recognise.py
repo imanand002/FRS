@@ -8,7 +8,7 @@ from utils.similarity import cosine_similarity
 # =======================
 # Config
 # =======================
-THRESHOLD = 0.55
+THRESHOLD = 0.60
 
 # =======================
 # Load database
